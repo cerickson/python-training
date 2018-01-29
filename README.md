@@ -1,2 +1,2 @@
-# python-training
-Class materials, examples, exercises, and solutions for a basic python training class
+# Python Training
+Class materials, examples, exercises, and solutions for an introduction to scientific python
